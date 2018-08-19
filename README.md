@@ -3,6 +3,10 @@
 #### Description
 星空键道6词库，更新同步于[Rime键道主项目][204]。
 
+#### 注意事项
+本项目不含 xkjd6.user.dict.yaml / default.yaml (或 default.custom.yaml)，故仅适合更新之用.
+烦请第一次安装使用的用户，移至[键道6主项目][204]下载。
+
 
 [998]: https://gitee.com/thxnder/xxjd/tree/master/release "新版本小小键道"
 [999]: https://gitee.com/nmlixa/Rime_JD "新版本RIME键道"
