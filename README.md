@@ -23,7 +23,7 @@
 [201]: http://rime.im "rime主页"
 [202]: https://github.com/osfans "TRIME作者页面"
 [203]: https://github.com/dgod/yong "小小主页"
-[204]: https://gitee.com/nmlixa/Rime_JD "Rime键道主页"
+[204]: https://gitee.com/nshu/Rime_JD "Rime键道主页"
 [205]: http://xxjd.xyz "小小键道主页"
 [206]: https://gitee.com/thxnder "「小小键道」 维护者"
 [207]: https://gitee.com/lyserenity/xkjd6 "正体字码表"
